@@ -2,7 +2,7 @@
     "name": "react-goose-track",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://typeandrew.github.io/GooseTrack/",
+    "homepage": "https://GoitStudentsWorks.github.io/react_node_fs_59_TypeAndrew/",
     "dependencies": {
         "@galpop/themetoggler": "^1.1.3",
         "@reduxjs/toolkit": "^1.9.5",
