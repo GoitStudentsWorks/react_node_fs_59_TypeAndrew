@@ -31,7 +31,7 @@ export const App = () => {
       <SpinnerGrid />
     </Container>
   ) : (
-    <BrowserRouter basename="GooseTrack">
+    <BrowserRouter basename="react_node_fs_59_TypeAndrew">
       <Suspense
         fallback={
           <Container>
